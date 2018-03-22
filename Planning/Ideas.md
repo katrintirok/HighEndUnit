@@ -1,6 +1,6 @@
 # Thoughts
 
-##big Q's
+## big Q's
 
 * 	How do we get funding?
 * 	Keep link to UNi but get outside funding:
