@@ -47,6 +47,7 @@ Niche focus - projects to start the unit
 	* Design and operating manuals
 	* Warnings
 	* Skills development
+	* Citizen science projects --> some initiatives already exist in eThekwini
 
 * Air Quality:
 	* Radar from muni.
@@ -56,13 +57,16 @@ Niche focus - projects to start the unit
 	* Design and operating manuals
 	* Warnings
 	* Skills development
+	* Citizen science projects --> some initiatives already exist in eThekwini
 
 ## What we can provide:
-* Big data management:
+* (Big) data management:
+	* curating/collection of public(?) data relevant to public institutions
 	* Making access to large datasets easy for industry.
 * Model Development:
 	* Open source model development
 	* Continual development
 * Skills transfer
+	* Training in usage of models developed for eThekwini/Transnet 
 * Backyard/easy access to knowledge.
 			
